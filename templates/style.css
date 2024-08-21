@@ -1,0 +1,36 @@
+.warpper {
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.warpper__title{
+    color:red;
+    font-size:50px
+}
+.wpapper__subtitle{
+    color: blue;
+    font-size:25px
+}
+.warpper__btn {
+    backgrond: green;
+    text-align: center;
+    outline: none;
+    border: none;
+    box-shadow: 0 0  0 110px black;
+    cursor: pointer;
+}
+.warpper_bb {
+    color:red;
+    font-size:45px
+}
+.warpper__btn:hover {
+    transform: translateX(-50px)
+
+}
+
+.naviks {
+    display: flex;
+    align-items: center;
+    justifly-content: center;
+    font-size40px;
+}
